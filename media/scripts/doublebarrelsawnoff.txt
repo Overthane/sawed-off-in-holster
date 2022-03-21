@@ -75,3 +75,4 @@ module SawnOffDoubleBarrelInHolster {
         haveChamber                     = FALSE,
         StopPower                       = 40,
     }
+}
