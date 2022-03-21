@@ -1,5 +1,9 @@
-item DoubleBarrelShotgunSawnoff
-    {
+module SawnOffDoubleBarrelInHolster {
+    imports {
+        Base
+    }
+
+    item DoubleBarrelShotgunSawnoff {
         DisplayCategory                 = Weapon,
         ImpactSound	                = null,
         MaxRange	                = 8,
