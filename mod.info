@@ -1,5 +1,5 @@
-name=Sawn Off Double Barrel In Holster
-poster=poster.png
-id=SawnOffDoubleBarrelInHolster
-description=Changes the `DoubleBarrelShotgunSawnoff` weapon to fit in a holster.
+name=Actual Sawed Off Shotgun In Holster
+poster=poster.jpg
+id=ActualSawedOffInHolster
+description=Changes both Sawed Off Shotgun 3D models, halves their weight and allows holster attachment.
 url=https://theindiestone.com/forums/
